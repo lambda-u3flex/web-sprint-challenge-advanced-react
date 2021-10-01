@@ -45,10 +45,10 @@ The form is working, but it is currently controlled by local stateful logic. We 
 
 ### Test the Checkout Form
 
-- [ ] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
-- [ ] Fill out code necessary to test that that Checkout form renders without errors.
-- [ ] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
-- [ ] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
+- [*] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
+- [*] Fill out code necessary to test that that Checkout form renders without errors.
+- [*] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
+- [*] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
 
 ## Important Notes
 
@@ -82,10 +82,10 @@ The form is working, but it is currently controlled by local stateful logic. We 
 
 ## Submission format
 
-- [ ] Submit via Codegrade by commiting and pushing any new changes to **your main branch.**
-- [ ] Check Codegrade before the deadline to compare its results against your local tests.
-- [ ] Check Codegrade on the days following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
-- [ ] New commits will be evaluated by Codegrade if pushed before the sprint challenge deadline.
+- [*] Submit via Codegrade by commiting and pushing any new changes to **your main branch.**
+- [*] Check Codegrade before the deadline to compare its results against your local tests.
+- [*] Check Codegrade on the days following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
+- [*] New commits will be evaluated by Codegrade if pushed before the sprint challenge deadline.
 
 ## Interview Questions
 
